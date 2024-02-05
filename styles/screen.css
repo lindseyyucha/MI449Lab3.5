@@ -1,6 +1,6 @@
 body {
     font-family: 'Roboto', sans-serif;
-    color: #F2F2F2;
+    color: #F2E7DC;
     background: #041326;
     padding: 0 40px;
     text-align: center;
@@ -10,7 +10,7 @@ nav {
     margin: 40px auto 0 auto;
     width: 600px;
     border-radius: 50px;
-    background: #777E8C;
+    background:  #8B7FBB;
 }
 
 nav ul {
@@ -30,18 +30,22 @@ nav ul li a {
     padding: 20px;
     color: #EAE8FF;
     text-decoration: none;
-    font-size: 1.2em;
+    font-size: 1em;
 }
 
 h1 {
-    font-size: 8em;
-    letter-spacing: -2px;
+    font-size: 6em;
+    letter-spacing: -2.5px;
 }
 
 h1 strong {
-    background: rgb(34,193,195);
-    background: linear-gradient(45deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+    background: linear-gradient(135deg, #F2E7DC, #8B7FBB, #575AA7);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 
+img
+{
+    width: 50px;
+    opacity: 0.8;
+}
