@@ -57,6 +57,6 @@ img
 }
 .star
 {
-    background: linear-gradient(135deg, #F2E7DC, #8B7FBB, #575AA7);
-    width: 100px;
+    opacity: 0.8;
+    width: 200px;
 }
