@@ -40,7 +40,7 @@ p {
 }
 
 h1 {
-    font-size: 6em;
+    font-size: 5em;
     letter-spacing: -2.5px;
 }
 
@@ -54,4 +54,9 @@ img
 {
     width: 100px;
     opacity: 0.8;
+}
+.star
+{
+    background: linear-gradient(135deg, #F2E7DC, #8B7FBB, #575AA7);
+    width: 50px;
 }
