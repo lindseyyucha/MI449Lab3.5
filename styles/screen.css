@@ -33,6 +33,12 @@ nav ul li a {
     font-size: 1em;
 }
 
+p {
+    font-size: 1.1em;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+
 h1 {
     font-size: 6em;
     letter-spacing: -2.5px;
