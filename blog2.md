@@ -1,6 +1,5 @@
 ---
 layout: blog.liquid
-title: Blog Post 2
 ---
 
 # Exploring Jupiter’s moons 
